@@ -48,3 +48,20 @@ Attrition prediction helps organizations take proactive measures to improve empl
    ```bash
    git clone https://github.com/yourusername/employee-attrition-prediction.git
    cd employee-attrition-prediction
+
+2. Run the Jupyter Notebook:
+   ```bash
+   jupyter notebook Employee_Attrition_Prediction.ipynb
+
+
+## 📈 Results
+
+-Built multiple classification models and compared their performance.
+-Identified key factors contributing to attrition (e.g., Overtime, Monthly Income, Job Satisfaction).
+-Achieved strong predictive accuracy and insights for HR decision-making.
+
+## 🔮 Future Work
+
+-Test with deep learning models (e.g., Neural Networks).
+-Deploy the model as a web app/dashboard.
+-Explore SHAP/LIME for explainable AI insights.
